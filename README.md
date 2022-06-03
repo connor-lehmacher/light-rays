@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Connor Lehmacher @light-rays
-- 🌱 I’m currently learning math at Vanderbilt University
+- 🌱 I’m a math PhD student at Stony Brook
 - 📫 You can reach me at clehmac@gmail.com
